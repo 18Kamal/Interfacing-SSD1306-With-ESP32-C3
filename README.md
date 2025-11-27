@@ -39,15 +39,11 @@ Install the following libraries via Arduino Library Manager:
 
   ## 📹 Project Demonstration
 
+https://github.com/user-attachments/assets/6ab739c1-1399-4908-a947-72c4d018e077
 
-
-https://github.com/user-attachments/assets/b03030d9-6edb-4a2c-9ed6-57d30b08afb7
-
-
-
-*Click the image above to watch the project demonstration video*
 
 ## 👨‍💻 
-Kamal Bishowkarma
-Bachelor of Mechanical Engineering and Automation Technology
-Hainan Normal University, China
+**Kamal Bishowkarma**  
+Bachelor of Mechanical Engineering and Automation Technology  
+Hainan Normal University, China 
+
